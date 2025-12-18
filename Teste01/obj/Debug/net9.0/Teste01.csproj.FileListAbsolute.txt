@@ -1,0 +1,14 @@
+C:\Users\Aprendiz_Ti\Desktop\C#\Teste01\bin\Debug\net9.0\Teste01.exe
+C:\Users\Aprendiz_Ti\Desktop\C#\Teste01\bin\Debug\net9.0\Teste01.deps.json
+C:\Users\Aprendiz_Ti\Desktop\C#\Teste01\bin\Debug\net9.0\Teste01.runtimeconfig.json
+C:\Users\Aprendiz_Ti\Desktop\C#\Teste01\bin\Debug\net9.0\Teste01.dll
+C:\Users\Aprendiz_Ti\Desktop\C#\Teste01\bin\Debug\net9.0\Teste01.pdb
+C:\Users\Aprendiz_Ti\Desktop\C#\Teste01\obj\Debug\net9.0\Teste01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aprendiz_Ti\Desktop\C#\Teste01\obj\Debug\net9.0\Teste01.AssemblyInfoInputs.cache
+C:\Users\Aprendiz_Ti\Desktop\C#\Teste01\obj\Debug\net9.0\Teste01.AssemblyInfo.cs
+C:\Users\Aprendiz_Ti\Desktop\C#\Teste01\obj\Debug\net9.0\Teste01.csproj.CoreCompileInputs.cache
+C:\Users\Aprendiz_Ti\Desktop\C#\Teste01\obj\Debug\net9.0\Teste01.dll
+C:\Users\Aprendiz_Ti\Desktop\C#\Teste01\obj\Debug\net9.0\refint\Teste01.dll
+C:\Users\Aprendiz_Ti\Desktop\C#\Teste01\obj\Debug\net9.0\Teste01.pdb
+C:\Users\Aprendiz_Ti\Desktop\C#\Teste01\obj\Debug\net9.0\Teste01.genruntimeconfig.cache
+C:\Users\Aprendiz_Ti\Desktop\C#\Teste01\obj\Debug\net9.0\ref\Teste01.dll
